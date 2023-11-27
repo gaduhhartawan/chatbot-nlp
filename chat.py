@@ -28,7 +28,7 @@ model.load_state_dict(model_state)
 model.eval()
 
 bot_name = "Bot"
-print("Let's chat! (type 'quit' to exit)")
+print("Let's chat! (ketik 'quit' untuk keluar atau berhenti.)")
 while True:
     # sentence = "do you use credit cards?"
     sentence = input("You: ")
@@ -47,9 +47,9 @@ while True:
 
     probs = torch.softmax(output, dim=1)
     prob = probs[0][predicted.item()]
-    if prob.item() > 0.9:
+    if prob.item() > 0.75:
         for intent in intents['intents']:
             if tag == intent["tag"]:
-                print(f"{bot_name}: {random.choice(intent['responses'])} Prob: {prob.item()}")
+                print(f"{bot_name}: {random.choice(intent['responses'])}")
     else:
         print(f"{bot_name}: Maaf saya tidak mengerti...")
