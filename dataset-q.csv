@@ -7,7 +7,7 @@ Kamu apa?,siapa
 Apa yang bisa kamu lakukan?,lakukan
 Chatbot tentang apa kamu?,siapa
 Siapa yang membuatmu?,buat
-Apa tugasmu?,siapa
+Apa tugasmu?,lakukan
 Adakah keahlian tertentu dalam teknik informatika yang sebaiknya saya pelajari untuk memperluas pilihan karier di masa mendatang?,keahlian1
 "Bagaimana sistem penerimaan mahasiswa Baru di teknik Informatika apakah ada kriteria khusus,selain lewat jalur yang telah di sediakan oleh UIN?",pmb
 "Apakah fokus utama dari jurusan teknik informatika adalah pada pembuatan aplikasi, atau ada hal lainnya?",matkul1
@@ -55,7 +55,7 @@ Mengapa di ruangan teknik informatika (selain ruang praktikum) itu sangat panas?
 Mengapa kualitas jaringan wifi tidak bagus?,fasilitas11
 Kenapa jurusan ini terasa tertinggal dari jurusan lain? terkait magang saja seperti tidak di briefing dari awal. mungkin saat awal di semester 5 karena masih banyak waktu luang,magang12
 Apakah Teknik Informatika hanya menjadi programmer?,jurusan7
-Apakah bisa menggunakan laboratorim di luar jam Mata Kuliah?,fasilitas12
+Apakah bisa menggunakan lab di luar jam Mata Kuliah?,fasilitas12
 Apakah di Jurusan Teknik Informatika menyediakan Beasiswa ke luar negeri?,beasiswa
 Apakah bisa bekerja tanpa banyaknya sertifikat?,karir8
 Peluang kerja seperti apa yang sesuai dengan kelompok keahlian yang ada di jurusan Teknik Informatika?,karir9
@@ -79,7 +79,6 @@ Kejelasan tempat magang yang telah diberikan,magang8
 Apakah ada informasi magang untuk tanggal tertentu?,magang
 Apakah ada informasi lowongan pekerjaan di jurusan teknik informatika?,karir4
 Apakah ada informasi magang di jurusan teknik informatika?,magang
-Apakah ada informasi magang di jurusan teknik informatika?,magang
 Apakah ada informasi mengenai magang pada saat ini ?,magang
 Apakah ada informasi mengenai magang di jurusan pada saat ini ?,magang
 Apakah ada informasi lowongan pekerjaan dari alumni ?,karir5
@@ -88,3 +87,21 @@ Apakah ada lowongan magang yang memiliki peluang bagus untuk jenjang karir ?,mag
 Dimana saja tempat magang yang ada paidnya?,magang10
 "Apa saja sertifikasi yang tersedia di teknik informatika, apakah ada lowongan magang yang bekerjasama dengan teknik informatika uin?",karir7
 Apakah ada kesempatan magang dari jurusan teknik informatika?,magang11
+Hi,halo
+Hello,halo
+Siapa kamu?,siapa
+Kamu bisa melakukan apa?,lakukan
+Apakah ada keahlian tertentu yang sebaiknya saya pelajari untuk karir saya di masa depan,keahlian1
+Apa itu informatika?,jurusan2
+Coba jelaskan apa itu informatika?,jurusan2
+Apakah kurikulum saat ini cukup sesuai dengan jaman sekarang?,matkul9
+Apakah kurikulum saat ini cukup relevan dengan perkembangan teknologi saat ini?,matkul9
+Apa saja langkah-langkah untuk melaksanakan seminar ujian proposal?,sidang3
+Apakah jurusan teknik informatika hanya fokus pada pengembangan aplikasi atau software?,matkul1
+Apa fokus utama dari jurusan teknik informatika?,matkul1
+Fasilitas apa saja yang tersedia di setiap ruangan kelas?,fasilitas4
+Apa saja sertifikasi yang tersedia di teknik informatika?,karir7
+mengapa tidak ada sosialisasi dari akademik?,magang12
+mengapa tidak sosialisasi dari jurusan sejak awal?,magang12
+Bagaimana fasilitas di jurusan saat ini?,fasilitas1
+Apa saja fasilitas yang tersedia di jurusan teknik informatika?,fasilitas1
